@@ -1,0 +1,9 @@
+.contenedor-divisiones {
+    justify-content: space-evenly;
+}
+
+.main {
+    max-width: 90%;
+    margin: 0 auto;
+    top: 9rem
+}
